@@ -2,7 +2,7 @@
 
 Welcome to this repository! This space is dedicated to showcasing my work on **Power BI** and **DAX**, 
 The objectibes is to demonstrate my **data modeling** and **BI reporting** **capabilities**as they are now **in full transparency**.
-I am <u>eager to learn much more<u> 😃 and <u>i lean fast<u> 😎 🚀 🎯!!!!
+And I am <u>eager to learn much more</u> 😃 and <u>i lean fast</u> 😎 🚀 🎯!!!!
 
 ## 📂 Contents
 This repository contains **three Power BI reports** in **PDF format**, each tackling different analytical objectives:
