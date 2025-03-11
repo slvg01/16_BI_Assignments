@@ -2,7 +2,7 @@
 
 Welcome to this repository! This space is dedicated to showcasing my work on **Power BI** and **DAX**, 
 The objectibes is to demonstrate my **data modeling** and **BI reporting** **capabilities**as they are now **in full transparency**.  
-but I am **eager to learn** much more 😃 and **i can learn quite fast** 😎 🚀 🎯!!!!  
+but I am **eager to learn** much more 😃 and i am a **fast learner** 😎 🚀 🎯!!!!  
          
 
 ## 📂 Contents
