@@ -15,12 +15,12 @@ A dynamic dashboard designed to track HR performance against objectives and dete
 - **Workforce hours distribution**: Breakdown by nature (paid/unpaid, worked/non-worked, sickness, delegation, leaves, etc.).  
 - **Hourly productivity at points of sale**.  
 
-### 2️⃣ **Product Strategy Review**  
+### 2️⃣ **Product Strategy Engineering**  
 A dashboard created at the request of the **strategy department** to evaluate the company's **product portfolio** in relation to its **contribution to overall margin** and **sales volumes**.  
 
 To achieve this, the report presents:  
-- Two **matrix visualization** that classifies products based on their profitability and volume impact (one in a tbale one graphical).  
-- A **heatmap** that highlights product performance patterns across key business dimensions.  
+- Two **matrix visualization** that classifies products based on their profitability and volume impact to quickly identify key contributors.  
+- A **heatmap** that highlights the velocity of product sales throughout the day
 - A **summary figures page**, providing a high-level overview of the key financial and operational takeaways.  
 
 This structured approach in the end allowed stakeholders to quickly prioritize products to make informed strategic decisions.  
@@ -30,10 +30,6 @@ A report designed to optimize resource allocation and improve operational effici
 - **Hourly resource allocation vs. sales & activity**: Includes a **heatmap** for better visualization.  
 - **Productivity benchmarking** across different restaurant locations.  
 
-### 4️⃣ **Strategy Engineering Report**  
-A tool for **product strategy evaluation** and operational planning. It analyzes product performance from two key perspectives:  
-- **Profit contributors**: Volume vs. profitability (margin analysis).  
-- **Velocity drivers**: Sales volume vs. time of day.  
 
 ---
 
